@@ -60,11 +60,7 @@ To develop a supervised machine learning model that predicts whether an individu
 
 ## 🚀 How to Run
 
-1. **Run in Google Colab:**  
+ **Run in Google Colab:**  
    Open the notebook: https://colab.research.google.com/drive/1nu-NvrLkjA59S6dqlQyldy3IcyyBd6x2?usp=sharing
 
-2. **Or Clone and Run Locally:**
-   ```bash
-   git clone https://github.com/your-username/employee-income-prediction.git
-   cd employee-income-prediction
-   jupyter notebook
+
