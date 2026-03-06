@@ -63,4 +63,13 @@ To develop a supervised machine learning model that predicts whether an individu
  **Run in Google Colab:**  
    Open the notebook: https://colab.research.google.com/drive/1nu-NvrLkjA59S6dqlQyldy3IcyyBd6x2?usp=sharing
 
+----
+**Author**
+---
+KOLLI VENNELA CHOWDARY
+
+------
+**Liscence**
+---
+This project is intended for educational purposes.
 
